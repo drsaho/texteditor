@@ -4,6 +4,7 @@ User Story
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
+
 Acceptance Criteria
 GIVEN a text editor web application
 WHEN I open my application in my editor
@@ -30,6 +31,7 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
+
 
 ![image](https://github.com/user-attachments/assets/ad72a664-44d2-4f18-88d7-9c2ceb088a35)
 
